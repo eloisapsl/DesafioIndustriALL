@@ -5,8 +5,6 @@ namespace DesafioIndustriALL.Application.Interfaces
 {
     public interface IPurchaseOrderRepository
     {
-        void CreateOrder(UserDTO user);
-        bool SaveUser();
-        List<User> GetAllUsers();
+
     }
 }

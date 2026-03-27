@@ -2,7 +2,7 @@
 {
     public class PurchaseOrderDTO
     {
-            public string Description { get; set; }
+           
         }
     }
-}
+
