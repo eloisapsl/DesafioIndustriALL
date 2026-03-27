@@ -184,6 +184,7 @@ Atualmente, foi implementado:
   * **Enums**: Utilizei enumerações para simplificar o processo de classificação / organização de algumas variáveis que podem assumir diferentes valores.
 * A pasta `Infrastructure` possui os arquivos necessários para conexão, mapeamento das entidades da aplicação e tabelas e versionamento do banco de dados.
 
+Também criei um quadro no Trello para organização e gerenciamento de atividades. Busquei quebrar as tarefas em cards menores para não me perder no que estava fazendo. O quadro pode ser acessado [aqui.](https://trello.com/invite/b/69c3f161c56fe3386f5cd918/ATTI71a900d0e91ac57a835a8568b1cb21319F5C552C/desafio-industriall)
 ---
 
 ## 📌 O que eu faria se tivesse mais tempo? 
